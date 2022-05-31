@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kotlin/AndroidStudioCourse/IremApplication-main/IremApplication-main/Project/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Kotlin/AndroidStudioCourse/IremApplication-main/IremApplication-main/Project/app/src/main/res/layout/child_item.xml" value="0.33" />
+        <entry key="..\:/Kotlin/AndroidStudioCourse/IremApplication-main/IremApplication-main/Project/app/src/main/res/layout/goz_cigelgesi_kumesi_item.xml" value="0.18" />
+        <entry key="..\:/Kotlin/AndroidStudioCourse/IremApplication-main/IremApplication-main/Project/app/src/main/res/layout/group_item.xml" value="0.2" />
+        <entry key="..\:/Kotlin/AndroidStudioCourse/IremApplication-main/IremApplication-main/Project/app/src/main/res/layout/panels_item.xml" value="0.25" />
+        <entry key="..\:/Kotlin/AndroidStudioCourse/IremApplication-main/IremApplication-main/Project/app/src/main/res/layout/record_item.xml" value="0.18" />
+        <entry key="..\:/Kotlin/AndroidStudioCourse/IremApplication-main/IremApplication-main/Project/app/src/main/res/layout/sembol_hizi_opsiyon_item.xml" value="0.18" />
+        <entry key="..\:/Kotlin/AndroidStudioCourse/IremApplication-main/IremApplication-main/Project/app/src/main/res/layout/spektrum_item.xml" value="0.22" />
+        <entry key="..\:/Kotlin/AndroidStudioCourse/Project/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Kotlin/AndroidStudioCourse/Project/app/src/main/res/layout/child_item.xml" value="0.33" />
+        <entry key="..\:/Kotlin/AndroidStudioCourse/Project/app/src/main/res/layout/group_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2509057971014493" />
+        <entry key="app/src/main/res/layout/child_item.xml" value="0.1947463768115942" />
+        <entry key="app/src/main/res/layout/group_item.xml" value="0.1947463768115942" />
+        <entry key="app/src/main/res/layout/panels_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/record_item.xml" value="0.22404327392578122" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

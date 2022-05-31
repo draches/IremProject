@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Spectrum-Spectrogram Opsiyon verileri -->
+    <string-array name="windowing_tip_values">
+        <item>RECTANGULAR</item>
+        <item>HAMMING</item>
+        <item>HANNING</item>
+    </string-array>
+
+    <string-array name="frekans_coz_values">
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+    </string-array>
+
+    <string-array name="selale_z_araligi_values">
+        <item>1.25</item>
+        <item>2.5</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="sinyal_stat_values">
+        <item>Devre Dışı</item>
+        <item>Hold max</item>
+        <item>Hold avg</item>
+        <item>Hold min</item>
+    </string-array>
+
+
+    <!--Göz Çizelgesi Yıldız Kümesi Opsiyon verileri -->
+    <string-array name="mod_type_values">
+        <item>OOK</item>
+        <item>ASK2</item>
+        <item>ASK4</item>
+        <item>ASK8</item>
+        <item>BPSK</item>
+        <item>DBPSK</item>
+        <item>PSK4</item>
+        <item>DPSK4</item>
+        <item>PSK8</item>
+        <item>DPSK8</item>
+        <item>PSK16</item>
+        <item>DPSK16</item>
+        <item>pi/2-BPSK</item>
+        <item>pi/4-QPSK</item>
+        <item>pi/4-DQPSK</item>
+        <item>OQPSK</item>
+        <item>OQPSK</item>
+        <item>QAM4</item>
+        <item>QAM8</item>
+        <item>QAM16</item>
+    </string-array>
+
+    <string-array name="dalga_sekli_values">
+        <item>RECTANGULAR</item>
+        <item>SRRC</item>
+        <item>USER_DEFINED</item>
+    </string-array>
+</resources>

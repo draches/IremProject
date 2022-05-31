@@ -1,0 +1,42 @@
+<resources>
+    <!--App Genel -->
+    <string name="app_name">IremProject</string>
+    <string name="kaydet">Kaydet</string>
+
+    <!--Kayıt Bilgisi verileri -->
+    <string name="registration">Kayıt Bilgisi</string>
+    <string name="doc_name">Dosya Adı</string>
+    <string name="merkez_frekans">Merkez Frekansı(Hz)</string>
+    <string name="sample_speed">Örnekleme Hızı(Hz)</string>
+    <string name="band_width">Band Genişliği(Hz)</string>
+    <string name="file_size">Dosya Boyutu(s)</string>
+    <string name="date_time">Tarih</string>
+
+    <!--Paneller verileri -->
+    <string name="panels">Paneller</string>
+
+    <!--Spektrum-Spektrogram Opsiyon verileri -->
+    <string name="spectrums">Spektrum-Spektrogram Opsiyon</string>
+    <string name="ofset">Ofset(Hz)</string>
+    <string name="band_genisligi_spektrum">Bant Genişliği(Hz)</string>
+    <string name="pencere_uz">Pencere Uz.(ms)</string>
+    <string name="windowing_tip">Windowing Tip</string>
+    <string name="frek_coz">Frek. Çöz.(Nokta)</string>
+    <string name="selale_z_araligi">Şelale Z. Aralığı(s)</string>
+    <string name="sinyal_stat">Sinyal Istat</string>
+    <string name="stat_temizle">ISTAT.TEMIZLE</string>
+
+    <!--Sembol Hızı Opsiyon verileri -->
+    <string name="symbol_pace">Sembol Hızı Opsiyon</string>
+    <string name="min_baud">Min Baud(Hz)</string>
+    <string name="max_baud">Max Baud(Hz)</string>
+    <string name="esik_deger">Tes. Eşik Değeri(dB) </string>
+    <string name="ikinci_esik">İkinci Eşik(dB)</string>
+
+    <!--Göz Çizelgesi Yıldız Kümesi Opsiyon verileri -->
+    <string name="eye_cluster">Göz Çizelgesi Yıldız Kümesi Opsiyon</string>
+    <string name="mod_tip">Mod. Tipi</string>
+    <string name="sembol_hizi">Sembol Hızı</string>
+    <string name="dalga_sekli">Dalga Şekli</string>
+
+</resources>
